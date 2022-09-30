@@ -28,18 +28,18 @@ logout button which clears the screen. If a vehicle is already booked by another
 user, the program prints that “This vehicle is already Taken by someone please 
 select other vehicle”.
 # 5.  Results Discussion
-#Login and Signup area
+# Login and Signup area
 ![image](https://user-images.githubusercontent.com/91987110/193240088-0f8182bf-f043-4957-9894-976a0667b936.png)
-#Signing Up
+# Signing Up
 ![image](https://user-images.githubusercontent.com/91987110/193240316-99fd8193-ad0d-473b-9b73-7497de496238.png)
-#Renting a Car
+# Renting a Car
 ![image](https://user-images.githubusercontent.com/91987110/193240386-a41e24e3-502d-4aee-a9d2-6e5dc6c79b8b.png)
-#Checking Information after booking
+# Checking Information after booking
 ![image](https://user-images.githubusercontent.com/91987110/193240446-1d03981f-cdfc-4c17-8563-e946c1a148af.png)
-#Deleting a Booking
+# Deleting a Booking
 ![image](https://user-images.githubusercontent.com/91987110/193240507-2760087d-7011-4bc2-a91d-d0c4057c72b9.png)
-#Checking detail after deleting booking
+# Checking detail after deleting booking
 ![image](https://user-images.githubusercontent.com/91987110/193240559-61428919-0966-4b46-9b53-8a334a5017d1.png)
-#Checking detail after logging in
+# Checking detail after logging in
 ![image](https://user-images.githubusercontent.com/91987110/193240632-752ebf57-7cb5-4d2d-a547-9cd0f4c049d1.png)
 
