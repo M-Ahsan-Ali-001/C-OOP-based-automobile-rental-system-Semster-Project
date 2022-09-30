@@ -1,10 +1,12 @@
+# Technology Used
+C++
 # 1. Abstract
  We have made Automobile and Bike rental system program, in this program we have 
 made four class, one is Abstract class and other three are inherited classes, we have also 
 made some virtual functions. We have also made Sign-up and Login-in system for our 
 program; user can make an account, or he/she can login to their account. User can delete 
 his / her booking and can re-book a vehicle. 
-# 2. Introduction of your project
+# 2. Introduction 
 We have designed a motorcycle and Automobile rental system software based 
 on concept of Abstract class and Inheritance; we have created different Classes 
 for different type of vehicles.
@@ -27,6 +29,7 @@ again. User can also check his/her detail of booking and ID. We have also made
 logout button which clears the screen. If a vehicle is already booked by another 
 user, the program prints that “This vehicle is already Taken by someone please 
 select other vehicle”.
+
 # 5.  Results Discussion
 # Login and Signup area
 ![image](https://user-images.githubusercontent.com/91987110/193240088-0f8182bf-f043-4957-9894-976a0667b936.png)
